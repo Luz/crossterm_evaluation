@@ -1,0 +1,8 @@
+[package]
+name = "crossterm_evaluation"
+version = "0.1.0"
+authors = ["Luz"]
+
+[dependencies]
+crossterm = "^0.25.0"
+
